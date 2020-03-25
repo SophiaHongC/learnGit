@@ -1,4 +1,5 @@
 import math
 
 def fun():
-  return
+  a = 8
+  return a
